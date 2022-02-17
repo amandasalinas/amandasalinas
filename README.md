@@ -1,8 +1,8 @@
 # Olá, sejam bem-vindos!
-👋 Me chamo Amanda<br>
-🎓 Sou formada em Ciências Biológicas e Bioinformática<br>
-💻 Trabalho com Front-end e Design também<br>
-📚 Sempre em busca de conhecimento
+👋 Eu sou a Amanda<br>
+💻 Desenvolvedora Front-end e Design<br>
+🎓 Graduada em Ciências Biológicas e Bioinformática<br>
+📚 Estou sempre em busca de conhecimento
 
 <div>
   <a href="https://beacons.ai/amandasalinas">
