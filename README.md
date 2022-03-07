@@ -7,6 +7,7 @@
 <div>
   <a href="https://beacons.ai/amandasalinas">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=amandasalinas&show_icons=true&include_all_commits=true&count_private=true"/>
+   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amandasalinas&layout=compact&langs_count=7"/>
 </div>
   
 <div style="display: inline_block"><br>
